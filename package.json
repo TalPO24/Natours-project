@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "loading page for natoues",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TalPO24/Natours-project.git"
+  },
+  "author": "Tal Poris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TalPO24/Natours-project/issues"
+  },
+  "homepage": "https://github.com/TalPO24/Natours-project#readme",
+  "dependencies": {
+    "sass": "^1.58.3"
+  }
+}
