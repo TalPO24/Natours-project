@@ -1,0 +1,17 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  //* this defines what's 1rem is, this is why we don't move it to the typography file.
+  //*basically we put everything that is text realiable we put in the typography file.
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+}
